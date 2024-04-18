@@ -1,2 +1,2 @@
 # E-commerce
-creating an e-commerce site using laravel
+ e-commerce site using laravel
