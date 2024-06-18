@@ -21,15 +21,15 @@
         @endforeach
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="carousel-control-prev-icon " aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>
     </button>
     <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="carousel-control-next-icon " aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
     </button>
 </div>
-<h1 class="mt-4">Trending Products</h1>
+<h1 class="mt-4 ">Trending Products</h1>
 <div class=" d-flex justify-content-around cards flex-wrap">
     @foreach ($products as $item )
     <div class="card" style="width: 18rem;">

@@ -32,6 +32,15 @@
   background-color: rgb(227, 222, 222);
   color: white;
 }
+
+.cart-item{
+  text-decoration: none;
+  color:white;
+  font: bold;
+}
+.search-box{
+  width: 500px !important;
+}
 </style>
 </head>
   <body>

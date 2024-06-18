@@ -21,8 +21,9 @@
             
                 <button class="btn btn-success">Add to Cart</button>
             </form>
-
-            <button class="btn btn-primary mt-4">Buy now</button>       
+<form method="get" action="/orders">
+            <button class="btn btn-primary mt-4">Buy now</button>  
+</form>     
          </div>
         </div>
     </div>
